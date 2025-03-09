@@ -1,2 +1,2 @@
 # .github
-Umbrella repository for the Jalaxies
+Organisation containing all relevant Jalaxies repositories.
