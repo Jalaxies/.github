@@ -1,6 +1,8 @@
-## Hi there 👋
+# Welcome to the Jalaxies Organisation 🌌
+This orrganisation containing all relevant Jalaxies repositories.
 
-Organisation containing all relevant Jalaxies repositories 
+## Wiki
+For a detailed technical document explaining Jalaxies, [visit the wiki](https://github.com/Jalaxies/.github/wiki).
 
 <!--
 
