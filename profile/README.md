@@ -1,7 +1,7 @@
 
 
 # Welcome to the Jalaxies Organisation 🌌
-<ins>J</ins>ust <ins>A</ins> <ins>L</ins>ean <ins>A</ins>syncronous e<ins>X</ins>xtensible <ins>I</ins>DE for <ins>E</ins>xecuting <ins>S</ins>AMs (JALAXIES)
+<ins>J</ins>ust <ins>A</ins> <ins>L</ins>ean <ins>A</ins>syncronous e<ins>X</ins>tensible <ins>I</ins>DE for <ins>E</ins>xecuting <ins>S</ins>AMs (JALAXIES)
 
 This organisation containing all relevant Jalaxies repositories.
 
