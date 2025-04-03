@@ -1,5 +1,8 @@
+
+
 # Welcome to the Jalaxies Organisation 🌌
-This orrganisation containing all relevant Jalaxies repositories.
+<ins>J</ins>ust <ins>A</ins> <ins>L</ins>ean <ins>A</ins>syncronous E<ins>X</ins>tremly fast <ins>I</ins>DE for <ins>E</ins>xecuting <ins>S</ins>AMs (JALAXIES)
+This organisation containing all relevant Jalaxies repositories.
 
 ## Wiki
 For a detailed technical document explaining Jalaxies, [visit the wiki](https://github.com/Jalaxies/.github/wiki).
