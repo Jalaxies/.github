@@ -2,6 +2,7 @@
 
 # Welcome to the Jalaxies Organisation 🌌
 <ins>J</ins>ust <ins>A</ins> <ins>L</ins>ean <ins>A</ins>syncronous <ins>E</ins>asy <ins>I</ins>DE for <ins>E</ins>xecuting <ins>S</ins>AMs (JALAXIES)
+
 This organisation containing all relevant Jalaxies repositories.
 
 ## Wiki
